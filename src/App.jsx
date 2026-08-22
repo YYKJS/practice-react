@@ -1,6 +1,6 @@
 function App() {
   return (
-      <h1>Reactアプリ</h1>
+      <h1>Reactアプリ表示確認</h1>
   );
 }
 
